@@ -1,0 +1,9 @@
+fever,cough,fatigue,nausea,headache,disease
+1,1,1,0,1,flu
+1,0,1,1,0,food_poisoning
+0,1,0,0,1,cold
+1,0,0,1,1,malaria
+1,1,1,1,1,dengue
+0,0,1,0,0,anemia
+0,1,1,0,0,bronchitis
+1,1,0,0,1,typhoid

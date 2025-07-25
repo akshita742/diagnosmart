@@ -1,0 +1,166 @@
+{
+  "(vertigo) Paroymsal  Positional Vertigo": {
+    "first_aid": "Sit or lie down immediately to prevent falls. Avoid sudden head movements. Rest until dizziness subsides.",
+    "urgency": "🟢 Mild"
+  },
+  "AIDS": {
+    "first_aid": "Seek immediate medical care. Take prescribed antiretroviral medications without delay.",
+    "urgency": "🔴 Emergency"
+  },
+  "Acne": {
+    "first_aid": "Clean skin gently, avoid picking pimples. Over-the-counter creams may help.",
+    "urgency": "🟢 Mild"
+  },
+  "Alcoholic hepatitis": {
+    "first_aid": "Stop alcohol immediately. Hydrate well and seek urgent medical attention.",
+    "urgency": "🔴 Emergency"
+  },
+  "Allergy": {
+    "first_aid": "Remove allergen exposure, take antihistamines. If breathing difficulty occurs, seek urgent care.",
+    "urgency": "🟠 See doctor soon"
+  },
+  "Arthritis": {
+    "first_aid": "Rest the joints, use warm compresses, and avoid strain. Over-the-counter pain relievers can help.",
+    "urgency": "🟠 See doctor soon"
+  },
+  "Bronchial Asthma": {
+    "first_aid": "Use inhaler if available. Sit upright, stay calm, avoid triggers like smoke. Seek emergency help if breathing worsens.",
+    "urgency": "🔴 Emergency"
+  },
+  "Cervical spondylosis": {
+    "first_aid": "Apply warm compress, maintain good posture, avoid heavy lifting.",
+    "urgency": "🟠 See doctor soon"
+  },
+  "Chicken pox": {
+    "first_aid": "Rest, drink fluids, avoid scratching blisters, take calamine lotion for itching.",
+    "urgency": "🟢 Mild"
+  },
+  "Chronic cholestasis": {
+    "first_aid": "Seek medical care immediately, avoid alcohol, and maintain hydration.",
+    "urgency": "🔴 Emergency"
+  },
+  "Common Cold": {
+    "first_aid": "Stay hydrated, rest, use warm fluids and steam inhalation.",
+    "urgency": "🟢 Mild"
+  },
+  "Dengue": {
+    "first_aid": "Drink plenty of fluids, rest, avoid aspirin. Seek immediate care if bleeding or severe symptoms occur.",
+    "urgency": "🔴 Emergency"
+  },
+  "Diabetes ": {
+    "first_aid": "Monitor blood sugar, eat regular meals, and take prescribed medicines. Seek care if severe hypo/hyperglycemia occurs.",
+    "urgency": "🟠 See doctor soon"
+  },
+  "Dimorphic hemmorhoids(piles)": {
+    "first_aid": "Increase fiber intake, drink water, use sitz baths for relief.",
+    "urgency": "🟠 See doctor soon"
+  },
+  "Drug Reaction": {
+    "first_aid": "Stop the suspected medication. Take antihistamines if rash or itching. Seek emergency help if breathing difficulty occurs.",
+    "urgency": "🔴 Emergency"
+  },
+  "Fungal infection": {
+    "first_aid": "Keep area dry and clean, use antifungal creams, avoid scratching.",
+    "urgency": "🟢 Mild"
+  },
+  "GERD": {
+    "first_aid": "Avoid heavy meals, alcohol, and lying down after eating. Take antacids if needed.",
+    "urgency": "🟠 See doctor soon"
+  },
+  "Gastroenteritis": {
+    "first_aid": "Drink oral rehydration solution (ORS), rest, and avoid oily foods.",
+    "urgency": "🟠 See doctor soon"
+  },
+  "Heart attack": {
+    "first_aid": "Call emergency services immediately. Chew an aspirin if not allergic, stay calm and rest.",
+    "urgency": "🔴 Emergency"
+  },
+  "Hepatitis A": {
+    "first_aid": "Rest, hydrate, avoid alcohol and heavy foods. Seek doctor for liver care.",
+    "urgency": "🟠 See doctor soon"
+  },
+  "Hepatitis B": {
+    "first_aid": "Rest, hydrate, avoid alcohol. Seek doctor for antiviral treatment.",
+    "urgency": "🔴 Emergency"
+  },
+  "Hepatitis C": {
+    "first_aid": "Rest, hydrate, avoid alcohol. Seek specialist care.",
+    "urgency": "🔴 Emergency"
+  },
+  "Hepatitis D": {
+    "first_aid": "Seek hospital care urgently. Avoid alcohol. Monitor liver function.",
+    "urgency": "🔴 Emergency"
+  },
+  "Hepatitis E": {
+    "first_aid": "Drink safe water, hydrate, rest, and seek medical care.",
+    "urgency": "🟠 See doctor soon"
+  },
+  "Hypertension ": {
+    "first_aid": "Rest, avoid stress, avoid high salt foods. Take prescribed medications on time.",
+    "urgency": "🟠 See doctor soon"
+  },
+  "Hyperthyroidism": {
+    "first_aid": "Avoid stimulants like coffee. Take medicines as prescribed. Seek doctor if severe symptoms.",
+    "urgency": "🟠 See doctor soon"
+  },
+  "Hypoglycemia": {
+    "first_aid": "Give sugar or sweet drink immediately. Seek urgent care if unconscious.",
+    "urgency": "🔴 Emergency"
+  },
+  "Hypothyroidism": {
+    "first_aid": "Take thyroid medicines as prescribed, maintain healthy diet.",
+    "urgency": "🟠 See doctor soon"
+  },
+  "Impetigo": {
+    "first_aid": "Wash area gently, apply antibiotic ointment. Avoid sharing towels.",
+    "urgency": "🟠 See doctor soon"
+  },
+  "Jaundice": {
+    "first_aid": "Rest, hydrate, avoid alcohol and fatty foods. Seek doctor for diagnosis.",
+    "urgency": "🟠 See doctor soon"
+  },
+  "Malaria": {
+    "first_aid": "Drink plenty of fluids, rest, and avoid mosquito bites. Seek medical attention promptly for anti-malarial treatment.",
+    "urgency": "🟠 See doctor soon"
+  },
+  "Migraine": {
+    "first_aid": "Rest in a quiet dark room, stay hydrated, avoid loud noises and bright lights.",
+    "urgency": "🟢 Mild"
+  },
+  "Osteoarthristis": {
+    "first_aid": "Do gentle exercises, use warm compresses, avoid overstraining joints.",
+    "urgency": "🟠 See doctor soon"
+  },
+  "Paralysis (brain hemorrhage)": {
+    "first_aid": "Call emergency services immediately, do not move patient unnecessarily.",
+    "urgency": "🔴 Emergency"
+  },
+  "Peptic ulcer diseae": {
+    "first_aid": "Avoid spicy food, alcohol, smoking. Take antacids if needed.",
+    "urgency": "🟠 See doctor soon"
+  },
+  "Pneumonia": {
+    "first_aid": "Rest, hydrate, seek doctor promptly for antibiotics.",
+    "urgency": "🔴 Emergency"
+  },
+  "Psoriasis": {
+    "first_aid": "Moisturize skin, avoid scratching, use medicated creams.",
+    "urgency": "🟢 Mild"
+  },
+  "Tuberculosis": {
+    "first_aid": "Wear a mask to prevent spread, seek doctor immediately for TB medicines.",
+    "urgency": "🔴 Emergency"
+  },
+  "Typhoid": {
+    "first_aid": "Drink ORS, rest, maintain hygiene. Seek doctor for antibiotics.",
+    "urgency": "🔴 Emergency"
+  },
+  "Urinary tract infection": {
+    "first_aid": "Drink lots of water, avoid caffeine, seek doctor for antibiotics.",
+    "urgency": "🟠 See doctor soon"
+  },
+  "Varicose veins": {
+    "first_aid": "Elevate legs, wear compression stockings, avoid long standing.",
+    "urgency": "🟠 See doctor soon"
+  }
+}
